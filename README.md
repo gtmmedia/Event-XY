@@ -14,31 +14,31 @@
 - 🎨 **Responsive Design**: Works great on desktop and mobile.
 - 🛠️ **Modular File Structure**: Clean codebase organized by pages, components, and services.
 
-### 🧰 Tech Stack
+ 🧰 Tech Stack
 
-- ⚛️ **React.js** – UI library
-- 🛣️ **React Router DOM** – Routing and navigation
-- 💅 **Tailwind CSS** – Styling framework
-- 📦 **Axios** – For HTTP requests
-- 🎟️ **Ticketmaster API** – Event data provider
-- 🧠 **Vite** – Fast React bundler and dev server
+- ⚛️ React.js – UI library
+- 🛣️ React Router DOM – Routing and navigation
+- 💅 Tailwind CSS – Styling framework
+- 📦 Axios – For HTTP requests
+- 🎟️ Ticketmaster API – Event data provider
+- 🧠 Vite – Fast React bundler and dev server
 
 ⚙️ Setup Instructions
 
-1. **Clone the repository**
+1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/eventx.git
 cd eventx
 ```
 
-2. **Install dependencies**
+2. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. **Create `.env` file at the root and add your API key**
+3. Create `.env` file at the root and add your API key
 
 ```env
 VITE_TICKETMASTER_API_KEY=your_ticketmaster_api_key_here
